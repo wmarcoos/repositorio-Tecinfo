@@ -1,0 +1,13 @@
+h1{
+    font-family: sans-serif;
+}
+
+li{
+    font-family: monospace;
+}
+
+body{
+    background-color: rgb(25, 137, 172);
+    width: 50%;
+    margin: auto;
+}
