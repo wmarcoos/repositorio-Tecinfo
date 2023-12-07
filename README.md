@@ -1,1 +1,1 @@
-# repositorio-Tecinfo
+# Repositorio-Tecinfo
